@@ -8,8 +8,8 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.TextView;
  
-import org.mariuszgromada.math.mxparser.Argument;
-import org.mariuszgromada.math.mxparser.Expression;
+import org.arreolacastilloalejandranaraet15.math.mxparser.Argument;
+import org.arreolacastilloalejandranaraet15.math.mxparser.Expression;
  
 import butterknife.BindView;
 import butterknife.ButterKnife;
